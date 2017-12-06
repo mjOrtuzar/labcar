@@ -1,0 +1,100 @@
+hr{
+    color:#fff;
+}
+p,h2,h4{
+    color:#fff;
+}
+.margen{
+    padding-right:0;
+}
+.parr{
+    font-size:23px;
+    padding:20px;
+}
+.parr h4{
+    font-size:24px;
+    font-style: bold;
+}
+.place{
+    margin-bottom:20px;
+}
+.place input{
+    background: transparent;
+    border:1px solid #fff;
+    border-radius:2px;
+}
+.pad{
+    padding:20%;
+}
+.mapa{
+    padding:2%;
+}
+.borde-mapa{
+    border: 2px solid #fff;
+}
+
+.dude{
+    padding:10%;
+}
+.left{
+    border: 2px solid #fff;
+    border-left:0;
+    margin-left:-12%;
+}
+.test{
+    padding-top:20px;
+    margin-left:30px;
+    padding-bottom:20px;
+}
+#sect1{
+    background-image: url(../assets/images/taxi.jpg);
+    background-position: bottom;
+    background-size: cover;
+}
+#sect2{
+    background-color: #F3C600;
+}
+#sect3{
+    background-image: url(../assets/images/conduce.jpg);
+    background-position: bottom;
+    background-size:cover;
+}
+#sect4{
+    background-color: #F3C600;
+}
+.jumbotron{
+    background-color: #F3C600;
+    margin-top:60%;    
+    margin-bottom:40%;
+    border-radius:0 !important;
+}
+footer{
+    background-color: #2F2F2F;
+}
+.phone{
+    padding:20px;
+}
+.options ul li{
+    color:#fff;
+    list-style: none;
+}
+.options ul li a{
+    text-decoration: none;
+}
+
+.options{
+    display:inline-block;
+}
+
+.desc{
+    background: rgba(0, 0, 0, 0.7)
+}
+
+.options{
+    display: inline-block;
+    margin:10px; 
+}
+.foot{
+    text-align: center;
+}
+
